@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  dz6(test)_anchors
-//
-//  Created by Elizabeth Serykh on 15.08.2023.
-//
 
 import UIKit
 
